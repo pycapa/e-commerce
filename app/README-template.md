@@ -110,3 +110,44 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+
+
+
+
+  <h1>e-commerce</h1>
+
+
+
+  Home
+  Shop
+  About
+  Contact
+
+  Discover innovative ways to decorate
+
+
+
+  Shop now
+
+  We are available all across the globe
+
+  With stores all over the world, it's easy for you to find furniture for your home or place of business.
+  Locally, we’re in most major cities throughout the country. Find the branch nearest you using our
+  store locator. Any questions? Don't hesitate to contact us today.
+
+  Shop now
+
+  Manufactured with the best materials
+
+  Our modern furniture store provide a high level of quality. Our company has invested in advanced technology
+  to ensure that every product is made as perfect and as consistent as possible. With three decades of
+  experience in this industry, we understand what customers want for their home and office.
+
+  Shop now
+
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Your Name Here</a>.
+  </div>

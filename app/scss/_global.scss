@@ -1,0 +1,29 @@
+
+/* css global */
+
+*, *::after, *::before{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Spartan', sans-serif;
+    font-size: $font-sm;
+    font-weight: $font-w-sm;
+    background-color: $White;
+    min-width: 375px;
+}
+.container{
+    @include breakpoint-down(medium){
+        padding: 0!important;
+        margin: 0!important;
+    }
+}
+
+h1{
+    font-weight: $font-w-lg!important;
+}
